@@ -26,3 +26,6 @@ app.get("/", function (req, res) {
 })
 
 server.listen(3000);
+console.log(3000)
+
+// start the server npx nodemon app.js
